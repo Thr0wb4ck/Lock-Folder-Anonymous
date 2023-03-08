@@ -1,4 +1,6 @@
 # Lock-Folder-Anonymous
+cr.techmayday
+
 ก็อปตั้งเเต่ cls จนถึง end ไปวางใน text ได้เลยครับ
 
 cls
@@ -58,3 +60,5 @@ echo Locker created successfully
 goto End
 
 :End
+
+
