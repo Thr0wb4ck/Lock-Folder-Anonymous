@@ -3,6 +3,7 @@ cr.techmayday
 
 ก็อปตั้งเเต่ cls จนถึง end ไปวางใน text ได้เลยครับ
 
+ 
 cls
  
 @ECHO OFF
@@ -38,7 +39,6 @@ if NOT %pass%== mypassword goto FAIL
  
 attrib -h -s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
  
- 
 ren "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" Locker
  
 echo Folder Unlocked successfully
@@ -60,5 +60,4 @@ echo Locker created successfully
 goto End
 
 :End
-
 
